@@ -1,0 +1,2 @@
+module WorldBankHelper
+end
