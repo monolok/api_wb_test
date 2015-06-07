@@ -1,28 +1,8 @@
-== README
+Example: Human Development Index Rank
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+DATA API: http://hdr.undp.org/en/data/api
+Gem: http://www.rubydoc.info/github/jnunemaker/httparty
 
-Things you may want to cover:
+Cool explantion for gem:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+http://blog.teamtreehouse.com/its-time-to-httparty

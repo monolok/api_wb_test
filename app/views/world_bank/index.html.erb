@@ -1,1 +1,13 @@
-<p>index</p>
+<p>Human Development Index Rank</p>
+
+<%= form_tag("/search", method: "get") do %>
+  <%= text_field_tag :search, params[:search] %>
+  <button>
+  OK
+  </button>
+<% end %>
+
+<% if not flash[:data].nil? %>
+	<%= flash[:data]%>
+<%end%>
+
